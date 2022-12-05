@@ -20,7 +20,7 @@ const ProfileHeader = () => {
     return (
         <div className='w-full bg-gray-600 h-48 mb-24 rounded-xl relative'>
             <img className='w-full h-full object-cover rounded-xl'
-                src="https://www.tpctax.com/wp-content/uploads/2017/05/services-background-placeholder.jpg" alt="" />
+                src="https://timelinecovers.pro/facebook-cover/download/stunning-little-flowers-facebook-cover.jpg" alt="" />
             <div className='w-32 h-32 rounded-full absolute -bottom-20 left-4 border-4 border-white overflow-hidden'>
                 <img className='w-full h-full object-cover'
                     src="https://cdn.dribbble.com/users/1577045/screenshots/4914645/media/028d394ffb00cb7a4b2ef9915a384fd9.png?compress=1&resize=400x300&vertical=top" alt="" />
